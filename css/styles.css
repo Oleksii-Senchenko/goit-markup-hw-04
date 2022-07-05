@@ -249,9 +249,11 @@ p {
 .team_section {
   background-color: #f5f4fa;
 }
+
 .team-list {
   display: flex;
 }
+
 .team-info {
   margin-right: 30px;
   text-align: center;
